@@ -4,6 +4,7 @@
   "description": "Using ESLint to lint JavaScript. For an https://egghead.io lesson.",
   "main": "main.js",
   "scripts": {
+      "lint": "eslint **.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,6 @@
   },
   "homepage": "https://github.com/trevordmiller/eslint-example#readme",
   "devDependencies": {
+    "eslint": "^1.0.0"
   }
 }
