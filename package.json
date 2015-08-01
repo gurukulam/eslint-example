@@ -1,0 +1,20 @@
+{
+  "name": "eslint-example",
+  "version": "1.0.0",
+  "description": "Using ESLint to lint JavaScript. For an https://egghead.io lesson.",
+  "main": "main.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevordmiller/eslint-example.git"
+  },
+  "author": "Trevor D. Miller <trevordmiller@icloud.com> (www.trevordmiller.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trevordmiller/eslint-example/issues"
+  },
+  "homepage": "https://github.com/trevordmiller/eslint-example#readme",
+  "devDependencies": {
+  }
+}
